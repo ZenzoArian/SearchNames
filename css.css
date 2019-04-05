@@ -1,0 +1,30 @@
+body{
+  background-color: #f0f4f5;
+  font-family:arial;
+  text-align: center;
+}
+
+.ThisBorder {
+    border: 3px solid #005eb8;
+    background: white;
+    height: auto;
+    width: 38em;
+    border-radius: 10px 10px 0px 0px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 12px;
+    z-index: 100;
+    /* position: absolute; */
+}
+
+.thisInfoBorder {
+    border: 3px solid #005eb8;
+    background: white;
+    height: auto;
+    width: 38em;
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-top: -3px;
+}
